@@ -5,7 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masumraza7&label=Profile%20views&color=129e00&style=plastic" alt="masumraza7" /> </p>
 <img align="right" alt="Coding" width="300" height="300" src="https://groceking.com/wp-content/uploads/2021/06/Untitled-design.png">
 
+
 - 👨‍💻 You can also check out my portfolio at [https://masumraza7.github.io/](https://masumraza7.github.io/)
+
+- 📝 Link Tree [https://linktr.ee/masumraza](https://linktr.ee/masumraza)
 
 - 📫 How to reach me **masumraza4444@gmail.com**
 
